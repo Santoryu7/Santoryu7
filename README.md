@@ -1,30 +1,38 @@
-### Hi there 👋
+# Hi there 👋 <br> My professional skills
 
-<!--
-**Santoryu7/Santoryu7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
+<br>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+## Backend
 <div>
-  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=yellow"/>
-  <img src="https://img.shields.io/badge/php-blue?style=for-the-badge&logo=php&logoColor=grey"/>
+  <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/php-black?style=for-the-badge&logo=php"/>
+  <img src="https://img.shields.io/badge/laravel-black?style=for-the-badge&logo=laravel" />
+  <img src="https://img.shields.io/badge/sqlite-black?style=for-the-badge&logo=sqlite" />
+  <img src="https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql" />
+  <img src="https://img.shields.io/badge/postgresql-black?style=for-the-badge&logo=postgresql" />
+  <img src="https://img.shields.io/badge/Symfony-black?style=for-the-badge&logo=Symfony" />
 </div>
 
+<br>
+
+## Frontend
 <div>
-  <img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=red" />
+  <img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5" />
   <img src="https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3&logoColor=blue" />
-  <img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=yellow" />
-  <img src="https://img.shields.io/badge/sass-black?style=for-the-badge&logo=sass&logoColor=pink" />
-  <img src="https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=violet" />
-  <img src="https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=orange" />
+  <img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/sass-black?style=for-the-badge&logo=sass" />
+  <img src="https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap" />
+  <img src="https://img.shields.io/badge/react-black?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/vue.js-black?style=for-the-badge&logo=vue.js" />
+</div>
+
+<br>
+
+## DevOps 
+<div>
+  <img src="https://img.shields.io/badge/git-black?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker" />
+  <img src="https://img.shields.io/badge/gnubash-black?style=for-the-badge&logo=gnubash" />
+  <img src="https://img.shields.io/badge/composer-black?style=for-the-badge&logo=composer" />
 </div>
