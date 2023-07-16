@@ -10,7 +10,6 @@
   <img src="https://img.shields.io/badge/laravel-black?style=for-the-badge&logo=laravel" />
   <img src="https://img.shields.io/badge/sqlite-black?style=for-the-badge&logo=sqlite" />
   <img src="https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql" />
-  <img src="https://img.shields.io/badge/postgresql-black?style=for-the-badge&logo=postgresql" />
   <img src="https://img.shields.io/badge/Symfony-black?style=for-the-badge&logo=Symfony" />
 </div>
 
@@ -23,8 +22,6 @@
   <img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript" />
   <img src="https://img.shields.io/badge/sass-black?style=for-the-badge&logo=sass" />
   <img src="https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap" />
-  <img src="https://img.shields.io/badge/react-black?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/vue.js-black?style=for-the-badge&logo=vue.js" />
 </div>
 
 <br>
